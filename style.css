@@ -1,0 +1,64 @@
+    header
+    {
+        font-family: "Protest Revolution", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      
+  body{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #2c7a3d;
+  }
+  
+  .outputBox{
+    min-height: 80px;
+    width: 60%;
+    margin-bottom: 10px;
+    background-color: #a1d7af;
+    padding: 5px;
+  }
+  
+  button{
+    background-color: #96d0ca;
+    padding: 10px;
+    font-family: monospace;
+    border: none;
+    
+  }
+  
+  header{
+    background: #a1d7af;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 50px;
+  }
+  
+  select{
+    padding: 10px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+  }
+  
+  input{
+    padding: 10px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;;
+  }
+  
+  .slider{
+    width: 50%; 
+    opacity: 0; /* Set transparency (for mouse-over effects on hover) */ 
+  }
+  
+  /* Mouse-over effects */
+  .slider:hover {
+    opacity: 1; /* Fully shown on mouse-over */
+  }
+  
+  
