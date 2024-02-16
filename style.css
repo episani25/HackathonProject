@@ -14,18 +14,18 @@
   }
   
   .outputBox{
-    min-height: 80px;
-    width: 60%;
+    min-height: 100px;
+    width: 80%;
     margin-bottom: 10px;
     background-color: #a1d7af;
     padding: 5px;
   }
   
   button{
-    background-color: #96d0ca;
+    background-color: #78a684;
     padding: 10px;
-    font-family: monospace;
-    border: none;
+    font-family: "Protest Revolution", sans-serif;
+    
     
   }
   
